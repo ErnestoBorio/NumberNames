@@ -1,0 +1,1 @@
+# **Generates number names** (_for now in spanish only_) for some useless data analysis
